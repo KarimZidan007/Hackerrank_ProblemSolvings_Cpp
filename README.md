@@ -21,3 +21,7 @@ The solutions in this repository are written in C++ and provide efficient and op
 ## Folder Structure
 
 The repository is organized into folders based on the problem categories available in HackerRank's CPP domain. Inside each category folder, you'll find subfolders for individual problems along with their respective solutions.
+
+=======
+
+
