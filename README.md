@@ -5,7 +5,7 @@ Welcome to the HackerRank CPP Problem Solving Solutions repository! This reposit
 ## About HackerRank
 
 
- [HackerRank](https://www.hackerrank.com/)is a platform that provides coding challenges and contests to help developers improve their coding skills. The CPP domain on HackerRank focuses specifically on challenges related to C++ programming.
+ [HackerRank] (https://www.hackerrank.com/)is a platform that provides coding challenges and contests to help developers improve their coding skills. The CPP domain on HackerRank focuses specifically on challenges related to C++ programming.
 
 
 
